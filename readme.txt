@@ -4,3 +4,4 @@ hahaha
 I know how to use git and GitHub!!!
 Yes!!!
 Branch~
+Creating a branch is quick!
